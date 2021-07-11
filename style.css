@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+img{
+    width: 80px;
+    height: 80px;
+    
+}
+
+.links{
+      display:inline;
+    color:red;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+  
+}
+.links:hover{
+    background-color: black;
+    font-size:25px;
+    text-decoration: underline;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color:aquamarine;
+}
+
+
+.menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    
+    z-index: 10;
+    cursor :pointer;
+    width:100%;
+    background:withe;
+}
